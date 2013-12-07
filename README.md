@@ -1,6 +1,6 @@
 # Introduction
 
-I compare the execution time of the `NMatrix` and `matrix` which is ruby standard library.
+I compare the execution time of the `NMatrix` and `matrix` which is the ruby standard library.
 
 I will do the multiplication and the inverse of a 28-by-28 (square) matrix.
 Input values is prepared in advance.
@@ -34,8 +34,11 @@ You might have to pass the environment variables depending on your environment.
      667.280000   1.500000 668.780000 (700.111114)
 
 
+# The Simulation Environment
+
 |||
 | ------------- |:-------------:|
 | OS  | Debian7(wheezy) |
 | CPU | AMD Athlon Dual Core Processor 4450e |
 | Memory | 8GB |
+| Ruby| 2.0.0p247 |
