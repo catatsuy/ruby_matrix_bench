@@ -4,6 +4,7 @@ I compare the execution time of the `NMatrix` and `matrix` which is the ruby sta
 
 I will do the multiplication and the inverse of a 28-by-28 (square) matrix.
 Input values is prepared in advance.
+The Number of input values is 42837.
 
 
 # Notes
