@@ -43,3 +43,8 @@ You might have to pass the environment variables depending on your environment.
 | CPU | AMD Athlon Dual Core Processor 4450e |
 | Memory | 8GB |
 | Ruby| 2.0.0p247 |
+
+
+# LICENSE
+
+This source code is released under the MIT License, see LICENSE
